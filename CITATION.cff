@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+type: software
+title: "Hegyesy Prime Mesh R2Q ThetaBridge Certificate v1"
+abstract: >
+  A reproducible certificate-level closure for the active theta bridge
+  G(x) = theta(x) - x against the RH-scale envelope
+  1.9233607946440099 * sqrt(x) * log(x)^2.
+  The package provides a one-command audit runner that reproduces PASS
+  for all post-P0 first-exit obstruction checks, including coordinate-gap
+  normalized margin safety (141/141), ThresholdRelevance (10140 rows / 0 failures),
+  candidate window coverage (142/142), and local obstruction closure.
+  This constitutes a certificate-level route toward the Chebyshev/von Koch
+  RH-scale criterion, pending independent mathematical verification.
+authors:
+  - family-names: Hegyesy
+    given-names: Jonathan
+    email: jhlogixim@gmail.com
+    orcid: ""
+keywords:
+  - Riemann Hypothesis
+  - prime numbers
+  - Chebyshev theta function
+  - certificate mathematics
+  - Prime Mesh Theory
+  - Hegyesy Mesh
+  - von Koch criterion
+  - reproducible mathematics
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-05-11"
+repository-code: "https://github.com/jhrhologix/h-mesh-RH"

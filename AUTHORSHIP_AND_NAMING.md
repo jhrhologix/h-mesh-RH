@@ -5,7 +5,8 @@
 **Date:** 2026-05-11
 
 ---
-
+Author: Jonathan Hegyesy
+Acknowledgments: AI tools including ChatGPT/OpenAI and Claude/Anthropic assisted with code generation, audit design, drafting, and consistency review.
 ## Originator
 
 **Jonathan Hegyesy**

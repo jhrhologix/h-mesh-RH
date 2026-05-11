@@ -1,6 +1,7 @@
 # Prime Mesh R2Q — Reproducibility README
 
 **Project:** Prime Mesh Theory — RH Programme  
+**Author:** Jonathan Hegyesy  
 **Date:** 2026-05-11  
 **Status:** Reviewer-facing reproducibility guide  
 **Scope:** Certificate-level active theta bridge reproduction package
@@ -149,11 +150,8 @@ forbidden rows above threshold.
 
 ## 4. Folder Layout
 
-Expected working folder:
-
-```text
-C:/Users/jhegy/source/repos/prime-mesh-theory/docs/RH/notes/claude/repair and close process/scripts and results
-```
+All files are self-contained in this package folder (the root of the repository).
+Run all scripts from this folder — no external dependencies or parent-directory files are required.
 
 Expected contents:
 
@@ -162,15 +160,12 @@ Expected contents:
 *.csv      audit inputs/outputs
 *.md       audit notes and closure updates
 deposit_manifest.csv
-```
-
-Recommended additional files:
-
-```text
-README_REPRODUCIBILITY.md
-Prime_Mesh_R2Q_Reproducibility_Runbook_v1.md
-Prime_Mesh_R2Q_RunAll_FinalAudits_Script_Spec_v1.md
+requirements.txt
 run_all_final_audits.py
+README_REPRODUCIBILITY.md
+CITATION.cff
+LICENSE
+AUTHORSHIP_AND_NAMING.md
 ```
 
 ---
@@ -185,6 +180,12 @@ pandas
 numpy
 ```
 
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 Check environment:
 
 ```bash
@@ -192,23 +193,9 @@ python --version
 python -m pip freeze > environment_freeze.txt
 ```
 
-Install common dependencies:
-
-```bash
-python -m pip install pandas numpy
-```
-
-If a script requires more packages, add them to:
-
-```text
-requirements.txt
-```
-
 ---
 
 ## 6. One-Command Reproduction
-
-Preferred command after `run_all_final_audits.py` is implemented:
 
 ```bash
 python run_all_final_audits.py
@@ -235,7 +222,7 @@ only if all critical scripts compile, run, and match expected counts.
 
 ## 7. Manual Reproduction Order
 
-If no one-command runner exists yet, run audits manually in this order.
+If running audits individually, use this order:
 
 ```bash
 python prime_mesh_r2q_endpointmotion_thresholdtransfer_audit.py
@@ -286,6 +273,10 @@ prime_mesh_r2q_b3_noaccumulation_summary.csv
 prime_mesh_r2q_neutral_clause_closure_summary.csv
 deposit_manifest.csv
 ```
+
+Note: `prime_mesh_r2q_firstcrossing_thresholdrelevance_rows.csv` contains the row-level
+ThresholdRelevance data. The equivalent cross-check file is also available as
+`prime_mesh_r2q_firstcrossing_thresholdrelevance_data_crosscheck.csv`.
 
 ---
 
@@ -518,7 +509,7 @@ It should not be. H-Exc remains sampled-grid only.
 Check:
 
 ```text
-Prime_Mesh_R2Q_FiniteCertificate_Index_v1.md
+Prime_Mesh_R2Q_FiniteCertificate_Package_v1.md
 deposit_manifest.csv
 ```
 
@@ -560,39 +551,47 @@ Avoid:
 
 1. Read this README.
 2. Read the final proof-audit checklist.
-3. Run:
-
-```bash
-python run_all_final_audits.py
-```
-
-4. Open:
-
-```text
-Prime_Mesh_R2Q_Final_Reproduction_Report_v1.md
-```
-
-5. Verify the final status is PASS.
-6. Inspect NormalizedError GapMargin rows.
-7. Inspect ThresholdRelevance failures.
-8. Inspect endpoint sign split.
-9. Inspect finite certificate index.
-10. Review the final paper draft.
+3. Install dependencies: `pip install -r requirements.txt`
+4. Run: `python run_all_final_audits.py`
+5. Open `Prime_Mesh_R2Q_Final_Reproduction_Report_v1.md`
+6. Verify the final status is PASS.
+7. Inspect NormalizedError GapMargin rows.
+8. Inspect ThresholdRelevance failures.
+9. Inspect endpoint sign split.
+10. Inspect finite certificate index.
+11. Review the final paper draft.
 
 ---
 
 ## 16. Current Status
 
-The project is ready for reproducibility packaging and external review preparation.
+The package is ready for external review.
 
-The next engineering milestone is a working one-command runner:
+The one-command runner is implemented:
 
 ```text
 run_all_final_audits.py
 ```
 
-The next writing milestone is a cleaned paper draft plus references for the theta-to-\(\psi\) transfer and von Koch criterion.
+Expected result:
+
+```text
+Final certificate reproduction status: PASS
+```
+
+The next writing milestone is a cleaned paper draft with complete references for the theta-to-\(\psi\) transfer and von Koch criterion.
 
 ---
 
-*Prime Mesh Theory — RH Programme*
+## 17. Citation
+
+If you use or reference this work, please cite using `CITATION.cff` in this folder,
+or as:
+
+> Jonathan Hegyesy. *Hegyesy Prime Mesh R2Q ThetaBridge Certificate v1*. 2026.
+> https://github.com/jhrhologix/h-mesh-RH
+
+---
+
+*Prime Mesh Theory — RH Programme*  
+*Originator: Jonathan Hegyesy*
