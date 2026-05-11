@@ -1,0 +1,2 @@
+window_count,covered_window_count,uncovered_window_count,gap_count,max_gap,overlap_count,post_P0_gap_count,post_P0_min_window_start,post_P0_max_window_end,candidate_coordinate_coverage_mode
+142,142,0,141,114090,0,141,604141168,604884331,sparse_candidate_windows_not_full_coordinate_cover

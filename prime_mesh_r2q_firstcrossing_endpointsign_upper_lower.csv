@@ -1,0 +1,4 @@
+crossing_group,rows,Q_R2Q_max,Q_R2Q_gt_0p75_count,E_theta_min,E_theta_max,E_theta_positive_count,E_theta_negative_count,E_theta_nonnegative_count,threshold_relevant_count,O2_safe_count,B3_safe_count,finite_certified_count,non_surviving_count,surviving_unrepaid_count,lower_safe_count
+upper,1320,0.2157084836048593,0,1.8396280710575184,88.76041429147188,1320,0,1320,0,1320,1320,1200,1320,0,1320
+lower,148,1.8193520399038576,3,-3089.9881332697114,-1.5258205110753806,0,148,0,3,148,148,126,148,0,148
+all,1468,1.8193520399038576,3,-3089.9881332697114,88.76041429147188,1320,148,1320,3,1468,1468,1326,1468,0,1468

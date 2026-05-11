@@ -1,0 +1,10 @@
+neutral_tau,neutral_count,post_P0_neutral_count,finite_zone_neutral_count,neutral_Q_R2Q_max,neutral_Q_R2Q_min,neutral_E_theta_abs_max,neutral_threshold_count,neutral_positive_count,neutral_negative_count,neutral_Q_R2Q_above_0p75_count,neutral_Q_R2Q_above_0p305_count,pass_neutral_subthreshold_tau,neutral_finite_certified_count,neutral_O2_safe_count,neutral_B3_safe_count,neutral_non_surviving_count,neutral_harmless_count,neutral_uncovered_count,pass_neutral_coverage_tau,finite_zone_neutral_certified_count_tau,finite_zone_neutral_uncertified_count_tau,post_P0_neutral_threshold_count_tau,post_P0_neutral_uncovered_count_tau
+0.0,0,0,0,,,,0,0,0,0,0,True,0,0,0,0,0,0,True,0,0,0,0
+1e-14,0,0,0,,,,0,0,0,0,0,True,0,0,0,0,0,0,True,0,0,0,0
+1e-12,0,0,0,,,,0,0,0,0,0,True,0,0,0,0,0,0,True,0,0,0,0
+1e-10,0,0,0,,,,0,0,0,0,0,True,0,0,0,0,0,0,True,0,0,0,0
+1e-08,0,0,0,,,,0,0,0,0,0,True,0,0,0,0,0,0,True,0,0,0,0
+1e-06,0,0,0,,,,0,0,0,0,0,True,0,0,0,0,0,0,True,0,0,0,0
+0.0001,0,0,0,,,,0,0,0,0,0,True,0,0,0,0,0,0,True,0,0,0,0
+0.001,0,0,0,,,,0,0,0,0,0,True,0,0,0,0,0,0,True,0,0,0,0
+0.01,0,0,0,,,,0,0,0,0,0,True,0,0,0,0,0,0,True,0,0,0,0

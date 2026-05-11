@@ -1,0 +1,15 @@
+FirstCrossing ThresholdRelevance audit complete.
+threshold_relevance_rows_actual: 10140
+threshold_relevance_failures: 0
+candidate_count: 0
+candidate_Q_R2Q_le_0p75_count: 0
+pass_candidate_threshold_relevance: True
+subthreshold_count: 10115
+subthreshold_unclassified_count: 0
+pass_subthreshold_non_obstruction: True
+uses_failed_delta_route: False
+uses_direct_threshold_sign: True
+thresholdrelevance_scope_classification: fullfcl_backed_certificate_conditional
+main_thresholdrelevance_gap: ThresholdRelevance is backed by the 10,140-row certificate and FullFCL/Covering candidate-selection assumptions, not by a standalone symbolic all-x theorem.
+recommended_next_file: Prime_Mesh_R2Q_FirstCrossing_ThresholdRelevance_Conditional_Closure_Update_v1.md
+pass_thresholdrelevance_audit: True

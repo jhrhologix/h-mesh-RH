@@ -1,0 +1,18 @@
+CandidateGap FirstExitImpossibility audit complete.
+gap_count_expected: 141
+gap_count_actual: 141
+gap_inventory_pass: True
+upper_exit_impossible_count: 0
+lower_bracketed_count: 0
+subthreshold_safe_count: 0
+finite_certificate_safe_count: 0
+generator_contradiction_safe_count: 0
+monotone_safe_count: 0
+envelope_margin_safe_count: 0
+unknown_count: 141
+uses_full_grid_HExc_upgrade: False
+uses_failed_delta_route: False
+gap_safety_classification: envelope_margin_data_missing
+main_gap_safety_gap: All gaps remain unknown because per-gap normalized error/envelope margin, jump-event, lower-bracket, and generator-contradiction data are unavailable.
+recommended_next_file: Prime_Mesh_R2Q_NormalizedError_GapMargin_Audit_Spec_v1.md
+pass_candidate_gap_firstexit_impossibility_audit: False

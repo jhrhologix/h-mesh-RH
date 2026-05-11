@@ -1,0 +1,18 @@
+FirstCrossing EndpointSign audit complete.
+E_theta_orientation: raw
+crossing_sign_variable_found: True
+crossing_sign_variable_name: local_theta_sign
+upper_crossing_rows: 1320
+upper_E_theta_nonpositive_count: 0
+pass_upper_endpoint_sign: True
+lower_crossing_rows: 148
+lower_E_theta_nonnegative_count: 0
+lower_surviving_unrepaid_count: 0
+pass_lower_raw_sign: True
+pass_lower_o2b3_safety: True
+uses_failed_delta_threshold_route: False
+uses_direct_threshold_sign: True
+endpointsign_classification: upper_lower_split
+main_endpointsign_gap: Upper crossings contradict direct sign via raw E_theta>0; lower crossings have raw E_theta<0 and are O2/B3/finite/non-surviving safe.
+recommended_next_file: Prime_Mesh_R2Q_FirstCrossing_UpperLowerSplit_Theorem_Target_v1.md
+pass_firstcrossing_endpointsign_audit: True

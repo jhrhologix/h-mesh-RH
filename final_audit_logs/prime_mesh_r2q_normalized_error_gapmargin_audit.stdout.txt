@@ -1,0 +1,17 @@
+NormalizedError GapMargin audit complete.
+gap_count: 141
+gaps_with_margin_bounds: 141
+gaps_margin_safe: 141
+gaps_upper_risk: 0
+gaps_lower_risk: 0
+gaps_missing_data: 0
+global_error_process_detected: theta(x)-x
+envelope_constant_detected: 1.9233607946440099
+R_upper_global_max: -0.0006006774736066138
+R_lower_global_min: -0.0007553068873594187
+min_upper_margin_to_1: 1.0006006774736067
+min_lower_margin_to_minus1: 0.9992446931126406
+total_prime_jumps_in_gaps: 22637
+gapmargin_classification: all_gaps_margin_safe
+recommended_next_file: Prime_Mesh_R2Q_CandidateGap_FirstExitImpossibility_Certificate_Closure_Update_v1.md
+pass_normalized_error_gapmargin_audit: True

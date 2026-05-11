@@ -1,0 +1,19 @@
+ContinuousFirstExit CandidateCompleteness audit complete.
+candidate_generator_found: True
+generator_targets_first_exit: True
+generator_rule_status: conditional_textual_rule_no_generator_match_certificate
+candidate_rows: 142
+upper_candidate_rows: 120
+upper_jump_missing_count: 0
+lower_candidate_rows: 22
+lower_drift_unbracketed_count: 0
+gap_count: 141
+gap_safety_proven_count: 0
+gap_safety_unknown_count: 141
+P0_transition_pass: True
+uses_full_grid_HExc_upgrade: False
+uses_failed_delta_route: False
+candidate_completeness_classification: gap_safety_incomplete
+main_candidate_completeness_gap: Audited candidates pass, but coordinate gaps are not proven first-exit impossible and no generator-match certificate exists.
+recommended_next_file: Prime_Mesh_R2Q_CandidateGap_FirstExitImpossibility_Proof_Attack_v1.md
+pass_continuous_firstexit_candidate_completeness_audit: False

@@ -1,0 +1,10 @@
+# Prime Mesh R2Q — Reproducibility Requirements
+# Minimum environment for running the full audit stack.
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# Tested on Python 3.10+
+
+pandas>=1.5.0
+numpy>=1.23.0

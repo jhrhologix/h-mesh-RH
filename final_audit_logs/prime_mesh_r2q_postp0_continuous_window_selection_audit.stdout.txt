@@ -1,0 +1,18 @@
+PostP0 ContinuousWindowSelection audit complete.
+coverage_mode: theta_window_candidate_certificate_conditional
+window_count: 142
+window_gap_count: 141
+max_window_gap: 114090
+jump_event_count: 120
+jump_uncovered_count: 0
+upper_jump_unrepresented_count: 0
+lower_drift_unbracketed_count: 0
+P0_transition_gap: 0
+pass_P0_transition: True
+uses_sampled_grid_TJ_for_continuous_selection: False
+uses_full_grid_HExc_upgrade: False
+uses_failed_delta_route: False
+continuous_window_selection_classification: theta_window_certificate_conditional
+main_continuous_selection_gap: Audited post-P0 candidates are covered and finite/P0 transition passes, but the continuous all-x theta-window/no-gap theorem remains conditional.
+recommended_next_file: Prime_Mesh_R2Q_PostP0_ContinuousWindowSelection_Conditional_Closure_Update_v1.md
+pass_postp0_continuous_window_selection_audit: True
