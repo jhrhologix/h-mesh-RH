@@ -63,7 +63,7 @@ prime_mesh_r2q_final_artifact_hashes.txt
 Primary folder:
 
 ```text
-C:/Users/jhegy/source/repos/prime-mesh-theory/docs/RH/notes/claude/repair and close process/scripts and results
+<package-root>
 ```
 
 The runner should be placed in this folder:
@@ -726,7 +726,7 @@ run_all_final_audits.py
 
 in:
 
-C:/Users/jhegy/source/repos/prime-mesh-theory/docs/RH/notes/claude/repair and close process/scripts and results
+<package-root>
 
 Purpose:
 One-command reproduction runner for the final Prime Mesh R2Q certificate stack.

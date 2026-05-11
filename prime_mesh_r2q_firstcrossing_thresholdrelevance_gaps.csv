@@ -1,0 +1,5 @@
+gap,status,detail,recommended_file
+symbolic all-x ThresholdRelevance proof,not_standalone_symbolic,"The audit supports the contrapositive through a finite/candidate certificate and FullFCL/Covering inputs, not a standalone symbolic derivation.",Prime_Mesh_R2Q_FirstCrossing_ThresholdRelevance_Conditional_Closure_Update_v1.md
+"10,140-row certificate",passes,Rows actual=10140; failures=0.,Prime_Mesh_R2Q_FirstCrossing_ThresholdRelevance_Certificate_Closure_Update_v1.md
+subthreshold non-obstruction,passes,"Every Q_R2Q<=0.75 row is classified as harmless, repaid, certified, or non-surviving.",Prime_Mesh_R2Q_FirstCrossing_ThresholdRelevance_Closure_Update_v1.md
+failed delta route,not_used,No proof evidence relies on Q_R2Q>0.75 => Q_DeltaD>0.75.,Prime_Mesh_R2Q_GlobalBridge_v5_Compatibility_Update_v1.md

@@ -1,0 +1,5 @@
+check,pass,evidence
+does_not_use_failed_delta_threshold_route,True,failed route appears only as warnings/spec text or not at all in proof evidence
+uses_direct_threshold_sign,True,direct threshold sign appears in supporting files
+subthreshold_classification_available,True,closure update states Q_R2Q<=3/4 rows are harmless/repaid/certified/non-surviving
+covering_dependency_explicit,True,ThresholdRelevance applies after CoveringLocalization supplies the selected row

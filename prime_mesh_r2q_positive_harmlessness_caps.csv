@@ -1,0 +1,5 @@
+cap,positive_rows_tested,positive_rows_above_cap,positive_rows_at_or_below_cap,positive_frac_at_or_below_cap,positive_tail_rows_tested,positive_tail_rows_above_cap,positive_tail_frac_at_or_below_cap,post_P0_positive_rows_tested,post_P0_positive_rows_above_cap,post_P0_positive_frac_at_or_below_cap,pass_global_positive_cap,pass_tail_positive_cap,pass_post_P0_positive_cap
+0.25,1320,0,1320,1.0,120,0,1.0,120,0,1.0,True,True,True
+0.5,1320,0,1320,1.0,120,0,1.0,120,0,1.0,True,True,True
+0.75,1320,0,1320,1.0,120,0,1.0,120,0,1.0,True,True,True
+1.0,1320,0,1320,1.0,120,0,1.0,120,0,1.0,True,True,True

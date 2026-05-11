@@ -1,0 +1,7 @@
+cap,rows_tested,rows_above_cap,near_forbidden_above_cap,forbidden_above_cap,C_minus_above_cap,O2_applicable_above_cap,pass_cap
+0.05,1468,0,0,0,0,0,True
+0.1,1468,0,0,0,0,0,True
+0.25,1468,0,0,0,0,0,True
+0.5,1468,0,0,0,0,0,True
+0.75,1468,0,0,0,0,0,True
+1.0,1468,0,0,0,0,0,True

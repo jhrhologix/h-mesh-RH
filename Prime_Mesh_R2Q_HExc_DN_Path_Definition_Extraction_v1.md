@@ -39,25 +39,25 @@ for post-`P0` rows.
 Primary H-Exc export:
 
 ```text
-C:/Users/jhegy/source/repos/prime-mesh-theory/docs/RH/notes/claude/repair and close process/scripts and results/prime_mesh_r2q_hexc_bridge_energy_export_patch.py
+<package-root>/prime_mesh_r2q_hexc_bridge_energy_export_patch.py
 ```
 
 RawR2Q full primitive export:
 
 ```text
-C:/Users/jhegy/source/repos/prime-mesh-theory/docs/RH/notes/claude/repair and close process/scripts and results/prime_mesh_r2q_rawr2q_full_primitive_export_patch.py
+<package-root>/prime_mesh_r2q_rawr2q_full_primitive_export_patch.py
 ```
 
 SR11 upstream reconstruction:
 
 ```text
-C:/Users/jhegy/source/repos/prime-mesh-theory/docs/RH/scripts/prime_mesh_r2q_sr11_reconstruct_recovery_path_noise.py
+<repo-root>/docs/RH/scripts/prime_mesh_r2q_sr11_reconstruct_recovery_path_noise.py
 ```
 
 Primary exported path table:
 
 ```text
-C:/Users/jhegy/source/repos/prime-mesh-theory/docs/RH/notes/claude/repair and close process/scripts and results/prime_mesh_r2q_hexc_bridge_path_samples_v1.csv
+<package-root>/prime_mesh_r2q_hexc_bridge_path_samples_v1.csv
 ```
 
 ## A. Exact Upstream Path Definition

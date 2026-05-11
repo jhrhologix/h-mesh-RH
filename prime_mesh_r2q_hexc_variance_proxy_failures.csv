@@ -1,0 +1,1 @@
+candidate_id,block_id,x,y,h,p_star,E_theta_sign,post_P0_flag,finite_zone_flag,E_theta,Q_R2Q,Q_delta_D,Q_exc,epsilon,near_forbidden_flag,forbidden_flag,C_minus_flag,V2,sqrt_V2,V2_source,V2_available_flag,Q_exc_over_sqrt_V2,Q_exc_over_sqrt_V2_global,row_regime,Q_exc_above_0p025_flag,variance_ratio_above_constant_flag,missing_Q_exc_flag,missing_V2_flag,invalid_V2_flag,failure_type

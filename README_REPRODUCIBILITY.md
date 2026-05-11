@@ -1,6 +1,6 @@
-# Prime Mesh R2Q — Reproducibility README
+﻿# Prime Mesh R2Q â€” Reproducibility README
 
-**Project:** Prime Mesh Theory — RH Programme  
+**Project:** Prime Mesh Theory â€” RH Programme  
 **Author:** Jonathan Hegyesy  
 **Date:** 2026-05-11  
 **Status:** Reviewer-facing reproducibility guide  
@@ -151,7 +151,7 @@ forbidden rows above threshold.
 ## 4. Folder Layout
 
 All files are self-contained in this package folder (the root of the repository).
-Run all scripts from this folder — no external dependencies or parent-directory files are required.
+Run all scripts from this folder â€” no external dependencies or parent-directory files are required.
 
 Expected contents:
 
@@ -264,7 +264,7 @@ Critical CSVs:
 prime_mesh_r2q_normalized_error_gapmargin_summary.csv
 prime_mesh_r2q_normalized_error_gapmargin_rows.csv
 prime_mesh_r2q_firstcrossing_thresholdrelevance_summary.csv
-prime_mesh_r2q_firstcrossing_thresholdrelevance_rows.csv
+prime_mesh_r2q_firstcrossing_threshold_relevance_rows.csv
 prime_mesh_r2q_postp0_continuous_window_selection_summary.csv
 prime_mesh_r2q_postp0_continuous_window_selection_gap_scan.csv
 prime_mesh_r2q_firstcrossing_endpointsign_summary.csv
@@ -274,7 +274,7 @@ prime_mesh_r2q_neutral_clause_closure_summary.csv
 deposit_manifest.csv
 ```
 
-Note: `prime_mesh_r2q_firstcrossing_thresholdrelevance_rows.csv` contains the row-level
+Note: `prime_mesh_r2q_firstcrossing_threshold_relevance_rows.csv` contains the row-level
 ThresholdRelevance data. The equivalent cross-check file is also available as
 `prime_mesh_r2q_firstcrossing_thresholdrelevance_data_crosscheck.csv`.
 
@@ -593,5 +593,5 @@ or as:
 
 ---
 
-*Prime Mesh Theory — RH Programme*  
+*Prime Mesh Theory â€” RH Programme*  
 *Originator: Jonathan Hegyesy*

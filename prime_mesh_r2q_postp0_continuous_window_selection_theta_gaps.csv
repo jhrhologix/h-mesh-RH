@@ -1,0 +1,2 @@
+theta_window_count,theta_gap_count,theta_max_gap,theta_overlap_count,status,note
+142,,,,theta_gap_scan_not_certified,"Current data has theta_local_norm/Q_theta candidate coordinates, not continuous theta-window intervals."

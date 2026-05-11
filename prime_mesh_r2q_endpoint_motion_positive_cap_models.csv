@@ -1,0 +1,2 @@
+model_name,rows_used,features_used,R2,MAE,RMSE,max_abs_residual,residual_q95,residual_q99,positive_cap_violations_after_model_bound,recommended_status
+B_positive_geometry_theta,1320,neg_E_theta_norm;rho_proxy;h_over_x;pstar_over_x;log_pstar;inv_log_pstar;sqrt_h_over_sqrt_x,0.9742532675086426,0.0008421488074768144,0.0017759910714175307,0.026496238161576466,0.002651576202908465,0.007540014486698328,0,formula_candidate_strong

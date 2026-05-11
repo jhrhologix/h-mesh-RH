@@ -1,0 +1,5 @@
+component,cap,source,row_level_available
+Q_2p1,0.009502682738794,prime_mesh_r2q_o2p1_fullmatrix_svd_summary.csv,False
+Q_2p2,8.118648230799173e-05,prime_mesh_r2q_o2p2_longa_spf_discrepancy_summary.csv,True
+Q_2p3,0.0205672364492246,prime_mesh_r2q_hexc_bridge_rigidity_summary.csv,True
+Q_2p4,0.0197548493142798,prime_mesh_r2q_o2p4_final_slack_summary.csv,True

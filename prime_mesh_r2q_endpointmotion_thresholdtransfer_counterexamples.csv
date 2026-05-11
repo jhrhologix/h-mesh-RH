@@ -1,0 +1,2 @@
+counterexample_type,candidate_id,p_star,h,row_regime,Q_R2Q,Q_delta_D,Q_exc,epsilon,Q_R2Q_recon,Q_R2Q_reconstruction_error,E_theta,threshold_relevant_flag,forbidden_flag,finite_certified_flag
+direct_delta,hexc_00040,604672261,151650,primitive_full_verified,0.7568596623500748,0.7467076670478365,0.0014698183580815,0.0086821769441568,0.7568596623500748,0.0,-1617.0683062109456,True,False,False

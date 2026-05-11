@@ -1,0 +1,8 @@
+threshold,rows_above_threshold,negative_rows_above,positive_rows_above,zero_rows_above,unknown_rows_above,negative_frac_above,positive_frac_above,pass_threshold_negative_transfer
+0.5,5,5,0,0,0,1.0,0.0,True
+0.6,4,4,0,0,0,1.0,0.0,True
+0.7,3,3,0,0,0,1.0,0.0,True
+0.75,3,3,0,0,0,1.0,0.0,True
+0.8,2,2,0,0,0,1.0,0.0,True
+0.9,1,1,0,0,0,1.0,0.0,True
+1.0,1,1,0,0,0,1.0,0.0,True

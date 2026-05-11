@@ -1,0 +1,8 @@
+tail_candidate_flag,candidate_crossing_flag,near_forbidden_flag,C_minus_flag,O2_applicable_flag,B3_applicable_flag,finite_certificate_flag,rows,accumulation_proxy_max,Q_tail_max_inside_max,Q_tail_end_max,unrepaid_tail_rows,endpoint_repaid_frac,failures
+False,False,False,False,True,True,True,1200,0.0,0.8567312053277858,0.0,0,1.0,0
+False,False,False,True,True,True,True,124,0.0,0.8629120832516217,0.0,0,1.0,0
+False,False,True,True,True,True,True,2,0.0,0.9071321825031058,0.0,0,1.0,0
+False,True,False,False,True,True,True,1,0.0,1.1611207216949435,0.0,0,1.0,0
+True,False,False,False,True,True,False,120,0.0,0.0209734671365038,0.0,0,1.0,0
+True,False,False,True,True,True,False,21,0.0,0.1951914771539726,0.0,0,1.0,0
+True,False,True,True,True,True,False,1,0.0,0.260270594288893,0.0,0,1.0,0

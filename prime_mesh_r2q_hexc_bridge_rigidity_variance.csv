@@ -1,0 +1,2 @@
+V2_available_rows,V2_global,sqrt_V2_global,sqrt_V2_min,sqrt_V2_max,sqrt_V2_mean,Q_exc_max,Q_exc_over_sqrt_V2_max,Q_exc_over_sqrt_V2_mean,variance_explains_excursion_flag
+1468,0.0004263792000474,0.0206489515483821,0.0206489515483821,0.0206489515483821,0.020648951548382095,0.0205672364492246,0.9960426514166575,0.3060055609064354,True

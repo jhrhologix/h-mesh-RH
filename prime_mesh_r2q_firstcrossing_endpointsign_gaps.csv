@@ -1,0 +1,4 @@
+gap,status,detail,recommended_file
+Raw-vs-oriented endpoint sign,resolved_as_raw_with_orientation_variable,E_theta is raw; local_theta_sign gives crossing orientation and E_theta_out=sigma*E_theta is positive.,Prime_Mesh_R2Q_FirstCrossing_UpperLowerSplit_Theorem_Target_v1.md
+Oriented local direct sign,not_available,"Direct sign is stated in raw E_theta coordinates, so a uniform outward-oriented contradiction is not available without a signed local theorem.",Prime_Mesh_R2Q_FirstCrossing_EndpointSign_Theorem_Target_v1.md
+Lower crossing closure,closed_by_o2b3_finite_data,Lower rows are raw negative; data shows zero surviving unrepaid lower candidates and complete O2/B3/finite/non-surviving safety.,Prime_Mesh_R2Q_FirstCrossing_LowerCrossing_O2B3_Closure_Target_v1.md

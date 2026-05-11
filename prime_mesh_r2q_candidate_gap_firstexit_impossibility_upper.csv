@@ -1,0 +1,2 @@
+upper_exit_impossible_count,upper_exit_possible_count,upper_exit_unknown_count,jump_event_data_missing,reason
+0,0,141,False,No per-gap jump-event inventory or upper-ratio monotonic certificate was available.

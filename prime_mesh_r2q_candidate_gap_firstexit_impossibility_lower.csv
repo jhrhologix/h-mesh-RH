@@ -1,0 +1,2 @@
+lower_bracketed_count,lower_unbracketed_count,lower_unknown_count,lower_bracketing_data_missing,reason
+0,0,141,False,Only aggregate audited lower-candidate bracketing exists; no per-gap lower drift interval mapping was available.

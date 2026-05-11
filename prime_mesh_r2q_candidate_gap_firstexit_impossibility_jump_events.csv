@@ -1,0 +1,2 @@
+jump_event_file_found,per_gap_jump_events_available,jump_event_count,jump_covered_count,note
+True,True,,120,"Existing jump coverage is aggregate over audited upper candidates, not per coordinate gap."

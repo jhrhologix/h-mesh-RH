@@ -1,7 +1,7 @@
-# Prime Mesh R2Q — Final Paper v1
+﻿# Prime Mesh R2Q â€” Final Paper v1
 
 **Title:** A Certificate-Level Prime Mesh R2Q Closure for the Chebyshev Theta RH-Scale Envelope  
-**Project:** Prime Mesh Theory — RH Programme  
+**Project:** Prime Mesh Theory â€” RH Programme  
 **Date:** 2026-05-11  
 **Status:** Continuous paper manuscript draft  
 **Scope:** Active theta bridge \(G(x)=\theta(x)-x\), certificate-level reproducible closure
@@ -170,6 +170,10 @@ with
 \[
 C_\theta=1.9233607946440099.
 \]
+
+This full decimal is the canonical package constant. Some finite-certificate
+artifacts print the same finite requirement as \(1.9233607946\) or rounded as
+\(1.923361\); those shorter displays are not separate constants.
 
 The normalized theta error is
 
@@ -561,7 +565,7 @@ Therefore no continuous first exit occurs in any coordinate gap.
 
 ## 9. Main Certificate Theorem
 
-### Theorem 1 — Active ThetaBridge FinalCertificate Closure
+### Theorem 1 â€” Active ThetaBridge FinalCertificate Closure
 
 For the active bridge
 
@@ -603,7 +607,7 @@ It must lie either:
 1. in an audited candidate/bracket window; or
 2. in a coordinate gap.
 
-### Case 1 — Candidate or Bracket Window
+### Case 1 â€” Candidate or Bracket Window
 
 By ThresholdRelevance, any surviving first-crossing obstruction satisfies
 
@@ -639,7 +643,7 @@ Neutral rows are empty.
 
 Therefore no candidate/bracket first-exit obstruction survives.
 
-### Case 2 — Coordinate Gap
+### Case 2 â€” Coordinate Gap
 
 All coordinate gaps are margin-safe:
 
@@ -713,6 +717,12 @@ we obtain safely
 P_{\rm powers}(x)=O(\sqrt{x}\log^2x).
 \]
 
+This is the standard prime-power correction estimate; for example, it follows
+from the elementary bound \(\theta(y)=O(y)\) applied to
+\(\sum_{k\ge2}\theta(x^{1/k})\). Standard references include E. C. Titchmarsh,
+*The Theory of the Riemann Zeta-Function*, 2nd ed., edited by D. R. Heath-Brown,
+and H. Davenport, *Multiplicative Number Theory*, 3rd ed.
+
 Thus
 
 \[
@@ -731,9 +741,14 @@ A classical von Koch criterion states that
 \psi(x)-x=O(\sqrt{x}\log^2x)
 \]
 
-is an RH-scale condition equivalent to the Riemann Hypothesis in the standard framework.
+is an RH-scale condition equivalent to the Riemann Hypothesis in the standard
+framework. This is the classical von Koch criterion; see H. von Koch, "Sur la
+distribution des nombres premiers," *Acta Mathematica* 24 (1901), and modern
+accounts such as Titchmarsh, *The Theory of the Riemann Zeta-Function*.
 
-Therefore, if the active theta bridge certificate stack is accepted as proof-grade global control, then the theta bridge gives
+Therefore, if the active theta bridge certificate stack is independently
+verified as sufficient to establish the stated global theta control, then the
+theta bridge gives
 
 \[
 \theta(x)-x=O(\sqrt{x}\log^2x),
@@ -907,7 +922,7 @@ The reviewer should inspect:
 
 ```text
 prime_mesh_r2q_normalized_error_gapmargin_rows.csv
-prime_mesh_r2q_firstcrossing_thresholdrelevance_rows.csv
+prime_mesh_r2q_firstcrossing_threshold_relevance_rows.csv
 prime_mesh_r2q_postp0_continuous_window_selection_summary.csv
 prime_mesh_r2q_final_artifact_hashes.txt
 ```
@@ -982,4 +997,4 @@ The next phase is independent review, proof-audit, and careful presentation of t
 
 ---
 
-*Prime Mesh Theory — RH Programme*
+*Prime Mesh Theory â€” RH Programme*

@@ -1,7 +1,7 @@
-# Prime Mesh R2Q — Final Certificate RH-Scale Paper Draft v1
+﻿# Prime Mesh R2Q â€” Final Certificate RH-Scale Paper Draft v1
 
 **Document:** `Prime_Mesh_R2Q_Final_Certificate_RHScale_Paper_Draft_v1.md`  
-**Project:** Prime Mesh Theory — RH Programme  
+**Project:** Prime Mesh Theory â€” RH Programme  
 **Date:** 2026-05-11  
 **Status:** Paper-style draft / certificate-level RH-scale assembly  
 **Purpose:** Assemble the active theta-bridge certificate stack into a coherent RH-scale paper draft with definitions, theorem statements, proof skeleton, certificate references, and honesty layer.
@@ -600,7 +600,7 @@ Therefore no continuous first exit can occur in any coordinate gap for the activ
 
 ## 10. Main Certificate Theorem
 
-### Theorem 1 — GlobalBridge FinalCertificate Closure for the Active Theta Bridge
+### Theorem 1 â€” GlobalBridge FinalCertificate Closure for the Active Theta Bridge
 
 For the active theta bridge
 
@@ -648,7 +648,7 @@ Then the first exit is either:
 1. inside the audited candidate/bracket universe; or
 2. inside a coordinate gap.
 
-### Case 1 — Candidate/bracket universe
+### Case 1 â€” Candidate/bracket universe
 
 By ThresholdRelevance, any surviving first-crossing obstruction satisfies:
 
@@ -700,7 +700,7 @@ Neutral rows are empty:
 
 Thus no candidate/bracket first exit survives.
 
-### Case 2 — Coordinate gap
+### Case 2 â€” Coordinate gap
 
 All coordinate gaps satisfy:
 
@@ -798,7 +798,7 @@ The von Koch criterion gives the classical RH-scale equivalence:
 
 in the standard framework.
 
-Thus, if the certificate-level theta bridge is accepted as proof-grade global control, then:
+Thus, if the certificate-level theta bridge is independently verified as sufficient to establish the stated global theta control, then:
 
 \[
 \theta(x)-x=O(\sqrt{x}\log^2x)
@@ -845,7 +845,7 @@ And the key CSVs:
 prime_mesh_r2q_normalized_error_gapmargin_summary.csv
 prime_mesh_r2q_normalized_error_gapmargin_rows.csv
 prime_mesh_r2q_firstcrossing_thresholdrelevance_summary.csv
-prime_mesh_r2q_firstcrossing_thresholdrelevance_rows.csv
+prime_mesh_r2q_firstcrossing_threshold_relevance_rows.csv
 prime_mesh_r2q_postp0_continuous_window_selection_summary.csv
 prime_mesh_r2q_postp0_continuous_window_selection_gap_scan.csv
 prime_mesh_r2q_candidate_gap_firstexit_impossibility_summary.csv
@@ -917,4 +917,4 @@ Purpose:
 
 ---
 
-*Prime Mesh Theory — RH Programme*
+*Prime Mesh Theory â€” RH Programme*

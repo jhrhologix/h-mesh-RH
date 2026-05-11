@@ -1,0 +1,2 @@
+lower_drift_interval_count,lower_drift_bracketed_count,lower_drift_unbracketed_count,lower_drift_bracketing_pass,status
+,22,0,True,audited_lower_candidates_bracketed_but_all_drift_intervals_not_enumerated

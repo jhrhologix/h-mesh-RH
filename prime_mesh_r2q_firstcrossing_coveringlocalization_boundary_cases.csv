@@ -1,0 +1,4 @@
+case,data_status,theorem_status,note
+boundary endpoints,no empirical failures,conditional_or_targeted,"Files discuss endpoint-controlled rows, but boundary handling is not a standalone proven analytic lemma."
+interior first crossings,no empirical localization failures,conditional_or_missing_formal_lifting,Interior/window selection is stated as Input/target; proof attack flags it as the key lemma.
+P0 transition,"post_P0_failures=0, finite_zone_failures=0",finite certificate passes; transition wording still conditional,Finite certificate covers x<P0 continuously; post-P0 candidate audit has no failures.

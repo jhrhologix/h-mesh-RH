@@ -1,0 +1,19 @@
+# Private / internal files — not for public release
+ZENODO_AND_ARXIV_INSTRUCTIONS.md
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Freeze logs (generated on reviewer machines)
+environment_freeze.txt

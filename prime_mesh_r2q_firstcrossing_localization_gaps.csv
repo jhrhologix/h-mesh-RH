@@ -1,0 +1,5 @@
+gap_id,gap,status,detail,recommended_file
+G1,Endpoint sign orientation,open,"Need theorem that selected first-crossing row has E_theta>=0 in the target orientation, or split upper/lower signs.",Prime_Mesh_R2Q_FirstCrossing_EndpointSign_Proof_Attack_v1.md
+G2,Lower crossing handling,open,Current theta assembly says negative first crossing gives E_theta<0; global contradiction needs signed reorientation or a separate lower-crossing theorem.,Prime_Mesh_R2Q_FirstCrossing_LowerCrossing_SignedOrientation_Target_v1.md
+G3,Covering and threshold relevance remain conditional,conditional,"Audits and conditional theorems support row covering and threshold relevance, but they are not final analytic proof from first principles.",Prime_Mesh_R2Q_FirstCrossing_Localization_Conditional_Closure_Update_v1.md
+G4,Finite/von Koch bridge,available_but_final_assembly_needed,Finite theta envelope and von Koch target are present; final theorem must thread them after localization is proved.,Prime_Mesh_R2Q_vonKoch_RHScale_Bridge_Theorem_Target_v1.md

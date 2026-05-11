@@ -2,8 +2,8 @@
 
 ## 1. Run Metadata
 
-- Timestamp: `2026-05-10T23:38:04`
-- Working folder: `C:\Users\jhegy\source\repos\prime-mesh-theory\docs\RH\notes\claude\repair and close process\scripts and results`
+- Timestamp: `2026-05-11T15:51:48`
+- Working folder: `<repo-root>\Hegyesy_Prime_Mesh_R2Q_ThetaBridge_Certificate_v1_2026-05`
 - Python: `3.13.1`
 - Platform: `Windows-11-10.0.26200-SP0`
 - Command flags: `default`

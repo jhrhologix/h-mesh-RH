@@ -1,0 +1,2 @@
+failure_type,severity,reason,recommended_repair
+primitive_raw_formula_missing,export_patch_needed,Current CSVs expose Q_R2Q and diagnostics/downstream components but not a proof-grade primitive decomposition of R_R2Q before normalization.,Patch SR10/B2/R2Q generation scripts to export raw coordinate terms and primitive feature basis.

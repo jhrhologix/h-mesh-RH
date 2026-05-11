@@ -1,0 +1,5 @@
+check,pass,value,evidence
+uses_sampled_grid_TJ_for_continuous_selection,True,False,"sampled-grid caveats are warnings, not the basis of continuous selection"
+uses_full_grid_HExc_upgrade,True,False,no proof evidence upgrades H-Exc sampled-grid data to full-grid continuous coverage
+uses_failed_delta_route,True,False,failed delta-threshold route appears only as warning/spec text or not at all
+sampled_grid_warning_needed,True,True,sampled-grid caveat remains relevant and should be kept in theorem wording

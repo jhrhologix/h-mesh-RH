@@ -1,0 +1,2 @@
+upper_jump_event_count,upper_jump_generated_count,upper_jump_missing_count,upper_jump_generation_pass,status
+120,120,0,True,audited_upper_candidates_represented_no_prime_power_exhaustive_scan

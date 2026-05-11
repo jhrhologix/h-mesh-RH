@@ -1,0 +1,2 @@
+P0,finite_zone_last_covered,post_P0_first_covered,P0_transition_gap,pass_P0_transition,finite_continuous_all_x_pass,finite_certificate_pass,note
+500000000,499999999,604141168,0,True,True,True,finite x<P0 is continuous-certified; post-P0 candidate selection remains conditional

@@ -1,0 +1,5 @@
+C_minus_flag,channel_compatible_flag,O2_applicable_flag,B3_applicable_flag,near_forbidden_flag,forbidden_flag,rows,Q_O2_max,Q_O2_mean,Q_O2_q95,rows_above_0p05,rows_above_0p10,rows_above_1p00,fallback_used_rows
+False,True,True,True,False,False,1320,0.04990595498460639,0.04990595498460638,0.04990595498460639,0,0,0,1320
+True,True,True,True,False,False,145,0.04990595498460639,0.04990595498460638,0.04990595498460639,0,0,0,145
+True,True,True,True,True,False,2,0.04990595498460639,0.04990595498460639,0.04990595498460639,0,0,0,2
+True,True,True,True,True,True,1,0.04990595498460639,0.04990595498460639,0.04990595498460639,0,0,0,1

@@ -1,0 +1,5 @@
+gap,status,detail,recommended_file
+post-P0 continuous all-x covering,conditional_not_fully_proven,"Audited first-crossing candidates are covered, but the universal all-x window-selection theorem remains an input/target.",Prime_Mesh_R2Q_FirstCrossing_CoveringLocalization_Conditional_Closure_Update_v1.md
+interior first-crossing lifting,conditional_or_missing_formal_lifting,Files mention interior/endpoint-controlled rows; a standalone lemma must prove an interior first crossing is captured by a row endpoint/window/refinement.,Prime_Mesh_R2Q_DiscreteEndpoint_to_RHScale_Lifting_Proof_Attack_v1.md
+finite-zone coverage,continuous_certificate_passes,Finite theta envelope summary reports continuous all-x finite certificate with zero failures.,Prime_Mesh_R2Q_FiniteThetaEnvelope_Closure_Update_v1.md
+sampled-grid H-Exc upgrade,not_used,Audit does not find proof evidence upgrading sampled-grid H-Exc to full-grid control.,Prime_Mesh_R2Q_CoveringLocalization_SampledGrid_Warning_Repair_Map_v1.md

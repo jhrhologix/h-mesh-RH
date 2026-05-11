@@ -1,7 +1,7 @@
-# Prime Mesh R2Q — Final ProofAudit Checklist v1
+﻿# Prime Mesh R2Q â€” Final ProofAudit Checklist v1
 
 **Document:** `Prime_Mesh_R2Q_Final_ProofAudit_Checklist_v1.md`  
-**Project:** Prime Mesh Theory — RH Programme  
+**Project:** Prime Mesh Theory â€” RH Programme  
 **Date:** 2026-05-11  
 **Status:** Final proof-audit and reproducibility checklist  
 **Purpose:** Convert the certificate-level RH-scale paper draft into a proof-audit package before any external mathematical claim.
@@ -40,7 +40,7 @@ The safest current status remains:
 }
 \]
 
-Do **not** state “RH is proven” until the proof-audit and external reproducibility checks pass.
+Do **not** state â€œRH is provenâ€ until the proof-audit and external reproducibility checks pass.
 
 ---
 
@@ -149,7 +149,7 @@ prime_mesh_r2q_normalized_error_gapmargin_rows.csv
 prime_mesh_r2q_normalized_error_gapmargin_margin_safe.csv
 prime_mesh_r2q_normalized_error_gapmargin_risk.csv
 prime_mesh_r2q_firstcrossing_thresholdrelevance_summary.csv
-prime_mesh_r2q_firstcrossing_thresholdrelevance_rows.csv
+prime_mesh_r2q_firstcrossing_threshold_relevance_rows.csv
 prime_mesh_r2q_firstcrossing_thresholdrelevance_failures.csv
 prime_mesh_r2q_postp0_continuous_window_selection_summary.csv
 prime_mesh_r2q_postp0_continuous_window_selection_gap_scan.csv
@@ -643,4 +643,4 @@ But the next phase is not more theorem chasing. It is reproducibility, independe
 
 ---
 
-*Prime Mesh Theory — RH Programme*
+*Prime Mesh Theory â€” RH Programme*

@@ -1,0 +1,6 @@
+check,pass,evidence
+uses_direct_threshold_sign,True,direct sign statements found
+does_not_use_failed_delta_threshold_route,True,failed route appears only in proof-attack/spec warnings or not at all in proof evidence
+h_exc_sampled_grid_caveat,True,no full-grid H-Exc upgrade made by this audit
+b3_row_level_caveat,True,B3 safety is row-level; chain IDs are not claimed
+neutral_empty_available,True,NeutralClause emptiness available if nonnegative/positive distinction is needed

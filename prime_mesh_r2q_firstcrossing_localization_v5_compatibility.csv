@@ -1,0 +1,6 @@
+check,pass,evidence
+uses_direct_threshold_sign,True,Direct threshold sign appears in v5/local stack files.
+does_not_use_failed_delta_threshold_route,True,Some older/theory files mention Q_delta_D>0.75; these must remain warnings or be replaced by direct sign.
+h_exc_sampled_grid_caveat,True,The target and v5 assembly warn not to assume full-grid H-Exc.
+neutral_empty_available,True,NeutralClause has been closed by emptiness in the audited row set.
+lower_crossing_target_aligned,False,Existing theta assembly maps negative first crossing to E_theta<0; target needs reorientation or signed split.

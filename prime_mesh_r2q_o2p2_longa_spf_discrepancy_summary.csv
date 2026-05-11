@@ -1,0 +1,2 @@
+longA_intervals,site_rows_shell3,q_classes,Q_LAN_obs,Q_LAN_mean,Q_LAN_median,Q_LAN_q95,Q_LAN_q99,pass_Q_LAN_le_0p05_frac,pass_Q_LAN_le_0p1_frac,pass_Q_LAN_le_1_frac,worst_block_id,worst_p_star,worst_h,worst_top_component_q,worst_small_q_le_13_discrepancy,worst_tail_q_gt_13_discrepancy,total_abs_discrepancy_top_q,total_abs_discrepancy_top_q_share
+166,165066,12255,8.118648230799173e-05,1.3325253898265575e-05,8.637065751891249e-06,3.7346201580435935e-05,5.2117952055469565e-05,1.0,1.0,1.0,14,1195669,205,3,0.2276322656184688,1.2582899736669057e-05,3.0,0.947495124073616

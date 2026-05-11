@@ -1,0 +1,2 @@
+theta_envelope_found,theta_envelope_coverage_statement,theta_envelope_finite_or_continuous,theta_envelope_status,theta_envelope_coverage_complete,theta_envelope_gaps
+True,GlobalThetaEnvelope v2 states FullFCL_v2 + FiniteThetaEnvelope implies |theta(x)-x| <= C_theta sqrt(x) log^2 x.,finite + post-P0 conditional envelope,present_conditional,False,Depends on FullFCL/first-crossing bridge and remains conditional Prime Mesh/R2Q theorem.

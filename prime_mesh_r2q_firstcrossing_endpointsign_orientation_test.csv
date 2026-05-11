@@ -1,0 +1,2 @@
+orientation_variable_found,orientation_variable_name,oriented_E_theta_min,oriented_E_theta_nonpositive_count,pass_outward_oriented_endpoint_sign,local_direct_sign_oriented_compatible,notes
+True,local_theta_sign,1.5258205110753806,0,True,False,"local direct sign theorem is stated for raw E_theta<0, not E_theta_out<0."

@@ -1,0 +1,3 @@
+requirement,status,note
+psi_or_pi_gap_margin,not_generated,This audit generated theta(x)-x margins because the active GlobalThetaEnvelope bridge defines the theta process.
+envelope_constant_exact_choice,minimum_required_constant_used,Used C_theta_min=1.9233607946440099; larger C_theta only improves safety.

@@ -192,11 +192,23 @@ A first exit is impossible if every post-$P_0$ window satisfies one of:
 | ThresholdRelevance rows checked | $10{,}140$ |
 | ThresholdRelevance failures | $0$ |
 
+The canonical package constant is:
+
+$$
+C_\theta=1.9233607946440099.
+$$
+
+Some finite-certificate tables display this as $1.9233607946$ or $1.923361$.
+Those are decimal truncation/rounding displays of the same finite-envelope
+requirement; the exported reviewer package treats the full value above as the
+canonical constant for reproducibility checks.
+
 ---
 
 ## 5. Relationship to Classical RH
 
-The H-Mesh certificate gives:
+The current H-Mesh/R2Q certificate package conditionally assembles, and asks
+reviewers to independently verify, the following theta-envelope conclusion:
 
 $$
 |\theta(x) - x| \le C_\theta \sqrt{x}\,\log^2 x \qquad (x \ge 2).
@@ -218,8 +230,9 @@ $$
 \psi(x) - x = O(\sqrt{x}\,\log^2 x) \;\Longleftrightarrow\; \mathrm{RH}.
 $$
 
-The Prime Mesh R2Q certificate gives a reproducible route to this criterion,
-pending independent analytic proof of the remaining component theorems.
+The Prime Mesh R2Q certificate package gives a reproducible route toward this
+criterion for the active theta bridge, pending independent review of the
+certificate stack and the remaining analytic presentation.
 
 ---
 

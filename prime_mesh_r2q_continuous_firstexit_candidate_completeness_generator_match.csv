@@ -1,0 +1,2 @@
+generated_count,audited_candidate_count,generated_not_audited_count,audited_not_generated_count,generator_candidate_match_pass,status
+,142,,,False,no_generator_output_available_for_match

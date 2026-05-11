@@ -634,20 +634,20 @@ def write_md_report(rows: list[dict[str, Any]], warnings: list[str], args: argpa
 
 def update_manifest() -> None:
     path = ROOT / OUT_MANIFEST
-    existing = read_rows(path)
-    output_names = {OUT_CSV, OUT_MD, OUT_HASHES, "run_all_final_audits.py"}
-    rows = [row for row in existing if row.get("filename") not in output_names]
     now = datetime.now().isoformat(timespec="seconds")
-    for name in sorted(output_names):
-        p = ROOT / name
+    suffixes = {".py", ".csv", ".md", ".txt"}
+    rows = []
+    for p in sorted(ROOT.iterdir(), key=lambda item: item.name.lower()):
+        if not p.is_file() or p.suffix.lower() not in suffixes:
+            continue
         rows.append(
             {
-                "filename": name,
-                "path": str(p),
+                "filename": p.name,
+                "path": p.name,
                 "bytes": p.stat().st_size if p.exists() else 0,
-                "status": "new",
+                "status": "present",
                 "updated_at": now,
-                "note": "Final audit reproduction runner/report artifact",
+                "note": "Exported reviewer package artifact",
             }
         )
     if rows:

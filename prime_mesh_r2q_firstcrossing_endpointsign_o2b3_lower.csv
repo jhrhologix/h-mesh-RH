@@ -1,0 +1,2 @@
+lower_crossing_candidates,lower_negative_subthreshold_count,lower_threshold_count,lower_O2_safe_count,lower_B3_safe_count,lower_finite_certified_count,lower_surviving_unrepaid_count,lower_accumulation_risk_count,lower_accumulation_risk_B3_safe_count,pass_lower_o2b3_safety
+148,145,3,148,148,126,0,22,22,True

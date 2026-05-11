@@ -1,0 +1,3 @@
+check,pass,value,evidence
+uses_full_grid_HExc_upgrade,True,False,No unsafe H-Exc sampled-grid to full-grid upgrade found in prioritized files.
+uses_failed_delta_route,True,False,No unsafe Q_R2Q>0.75 => Q_DeltaD>0.75 proof use found in prioritized files.

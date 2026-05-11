@@ -1,0 +1,9 @@
+lemma,status,statement_needed,evidence,found
+Envelope Definition,conditional,Define G(x)=theta/psi/pi error with RH-scale envelope.,GlobalThetaEnvelope/ThetaFirstCrossing define theta envelope; theorem target states psi/pi alternatives.,True
+First-Crossing Existence,conditional,"If envelope fails, first crossing X0 exists.","First-crossing language exists in conditional assemblies, but not closed as global RH theorem.",True
+Theta/R2Q Covering,conditional,X0 maps to candidate/admissible row J.,Covering Localization Conditional Theorem gives this as Input/conditional theorem with empirical support.,True
+Threshold Relevance,conditional,First crossing implies Q_R2Q(J)>0.75.,ThresholdRelevance audit/closure gives empirical theorem-facing contrapositive; proof target remains.,True
+Endpoint Sign Orientation,conditional_incomplete,First crossing implies E_theta(J)>=0 or >0 in the v5 row orientation.,Theta conditional assembly states positive crossing gives E_theta>0 and negative gives E_theta<0; target needs unified E_theta>=0 for RH-scale crossing.,True
+Lower Crossing Handling,missing_or_needs_signed_version,Lower envelope crossings map to same nonnegative orientation or a separate symmetric theorem.,"Existing conditional theta assembly says negative first crossing gives E_theta<0, which does not match target E_theta>=0 without reorientation.",True
+Finite-Zone Coverage,conditional,X0<P0 covered by finite certificate.,FiniteThetaEnvelope and finite certificate files exist; final index/reproducibility still noted.,True
+v5 Contradiction,proven_in_local_stack,Q_R2Q>0.75 => E_theta<0 using direct sign.,v5 assembly/direct sign files provide direct threshold sign.,True

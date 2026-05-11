@@ -1,0 +1,2 @@
+scope,check_status,reason,pass_finite_theta_envelope_certificate
+x_lt_500000000,not_run,no exact theta prefix table found in repair results folder,False

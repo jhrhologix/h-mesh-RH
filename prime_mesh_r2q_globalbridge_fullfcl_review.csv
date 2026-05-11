@@ -1,0 +1,2 @@
+FullFCL_found,FullFCL_role,FullFCL_status,FullFCL_uses_old_logic,FullFCL_v5_compatible,notes
+True,Full First-Crossing / front-end closure stack support,empirically reclosed but explicitly not analytic from first principles,False,False,v2 imports primitive-backed support but is conditional and still organized through older Q_delta_D sign-bridge components; final global bridge needs direct-sign/v5 wording.

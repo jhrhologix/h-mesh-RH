@@ -1,0 +1,2 @@
+chains_count,chains_with_accumulation_risk_count,chains_surviving_unrepaid_count,chains_finite_certified_count,chains_closed_count,chain_balance_min,pass_chain_noaccumulation,chain_mode
+0,0,0,0,0,,True,no_chain_ids_available

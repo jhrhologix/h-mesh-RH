@@ -1,7 +1,7 @@
-# Prime Mesh R2Q — Reproducibility Runbook v1
+﻿# Prime Mesh R2Q â€” Reproducibility Runbook v1
 
 **Document:** `Prime_Mesh_R2Q_Reproducibility_Runbook_v1.md`  
-**Project:** Prime Mesh Theory — RH Programme  
+**Project:** Prime Mesh Theory â€” RH Programme  
 **Date:** 2026-05-11  
 **Status:** Reproducibility / reviewer runbook  
 **Purpose:** Provide exact run order, expected files, expected row counts, and validation checks for reproducing the certificate-level theta bridge stack.
@@ -53,7 +53,7 @@ This runbook is designed so a reviewer can rerun the audits and check whether th
 Primary working folder:
 
 ```text
-C:/Users/jhegy/source/repos/prime-mesh-theory/docs/RH/notes/claude/repair and close process/scripts and results
+<package-root>
 ```
 
 All scripts and outputs below are expected to live in that folder unless explicitly noted.
@@ -127,7 +127,7 @@ No script should silently upgrade H-Exc sampled-grid control to full-grid contro
 
 Run audits in this order.
 
-### Step 1 — H-Exc / local affine / sampled-grid stack
+### Step 1 â€” H-Exc / local affine / sampled-grid stack
 
 These are earlier repair-layer audits. Verify their output files exist and pass.
 
@@ -154,7 +154,7 @@ Critical expected facts:
 
 ---
 
-### Step 2 — EndpointMotion direct threshold sign
+### Step 2 â€” EndpointMotion direct threshold sign
 
 Run or verify:
 
@@ -189,7 +189,7 @@ hexc_00040
 
 ---
 
-### Step 3 — O2 repayment
+### Step 3 â€” O2 repayment
 
 Run:
 
@@ -224,7 +224,7 @@ Expected O2 cap max:
 
 ---
 
-### Step 4 — B3 no-accumulation
+### Step 4 â€” B3 no-accumulation
 
 Run:
 
@@ -255,7 +255,7 @@ Expected facts:
 
 ---
 
-### Step 5 — NeutralClause
+### Step 5 â€” NeutralClause
 
 Run:
 
@@ -284,7 +284,7 @@ Expected facts:
 
 ---
 
-### Step 6 — EndpointSign upper/lower split
+### Step 6 â€” EndpointSign upper/lower split
 
 Run:
 
@@ -318,7 +318,7 @@ Expected facts:
 
 ---
 
-### Step 7 — CoveringLocalization
+### Step 7 â€” CoveringLocalization
 
 Run:
 
@@ -352,7 +352,7 @@ Expected facts:
 
 ---
 
-### Step 8 — ThresholdRelevance
+### Step 8 â€” ThresholdRelevance
 
 Run:
 
@@ -364,7 +364,7 @@ Expected outputs:
 
 ```text
 prime_mesh_r2q_firstcrossing_thresholdrelevance_summary.csv
-prime_mesh_r2q_firstcrossing_thresholdrelevance_rows.csv
+prime_mesh_r2q_firstcrossing_threshold_relevance_rows.csv
 prime_mesh_r2q_firstcrossing_thresholdrelevance_failures.csv
 Prime_Mesh_R2Q_FirstCrossing_ThresholdRelevance_Audit_v1.md
 ```
@@ -386,7 +386,7 @@ Expected facts:
 
 ---
 
-### Step 9 — Post-P0 ContinuousWindowSelection
+### Step 9 â€” Post-P0 ContinuousWindowSelection
 
 Run:
 
@@ -419,7 +419,7 @@ Expected facts:
 
 ---
 
-### Step 10 — CandidateCompleteness
+### Step 10 â€” CandidateCompleteness
 
 Run:
 
@@ -456,7 +456,7 @@ Expected facts before gap-margin closure:
 
 ---
 
-### Step 11 — CandidateGap FirstExitImpossibility
+### Step 11 â€” CandidateGap FirstExitImpossibility
 
 Run:
 
@@ -490,7 +490,7 @@ Expected facts before normalized margin audit:
 
 ---
 
-### Step 12 — NormalizedError GapMargin
+### Step 12 â€” NormalizedError GapMargin
 
 Run:
 
@@ -709,4 +709,4 @@ The most valuable next action is to make the certificate independently runnable.
 
 ---
 
-*Prime Mesh Theory — RH Programme*
+*Prime Mesh Theory â€” RH Programme*

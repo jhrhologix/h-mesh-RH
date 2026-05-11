@@ -1,0 +1,5 @@
+channel_full,channel_inferred,negative_transfer_flag,O2_applicable_flag,B3_applicable_flag,rows,coordinate_rows,near_forbidden_rows,forbidden_rows,near_channel_compatible_frac,Q_max,positive_rows,negative_rows
+finite_certificate,neutral,True,False,False,1,0,0,0,1.0,1.1611207216949435,0,0
+negative_transferred_repaid,negative_transfer,True,True,True,3,3,3,1,1.0,1.8193520399038576,0,3
+negative_transferred_repaid,neutral,True,True,True,145,145,0,0,1.0,0.6812241515207513,0,145
+positive_harmless,positive_harmless,False,True,True,1320,1320,0,0,1.0,0.2157084836048593,1320,0

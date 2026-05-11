@@ -1,7 +1,7 @@
-# Prime Mesh R2Q — Final Reproduction PASS Closure Update v1
+﻿# Prime Mesh R2Q â€” Final Reproduction PASS Closure Update v1
 
 **Document:** `Prime_Mesh_R2Q_Final_Reproduction_PASS_Closure_Update_v1.md`  
-**Project:** Prime Mesh Theory — RH Programme  
+**Project:** Prime Mesh Theory â€” RH Programme  
 **Date:** 2026-05-11  
 **Status:** Final reproducibility closure update  
 **Purpose:** Record that the one-command final audit runner reproduced the full certificate stack with final status `PASS`.
@@ -249,7 +249,7 @@ After this runner:
 }
 \]
 
-This moves the project from “audit chain” to “reviewer package.”
+This moves the project from â€œaudit chainâ€ to â€œreviewer package.â€
 
 ---
 
@@ -305,7 +305,7 @@ Final certificate reproduction status: PASS
 
 ```text
 prime_mesh_r2q_normalized_error_gapmargin_rows.csv
-prime_mesh_r2q_firstcrossing_thresholdrelevance_rows.csv
+prime_mesh_r2q_firstcrossing_threshold_relevance_rows.csv
 prime_mesh_r2q_postp0_continuous_window_selection_summary.csv
 prime_mesh_r2q_final_artifact_hashes.txt
 ```
@@ -358,7 +358,7 @@ Purpose:
 
 \[
 \boxed{
-\text{create a clean index of every file a reviewer should read, in order, with each file’s role and status.}
+\text{create a clean index of every file a reviewer should read, in order, with each fileâ€™s role and status.}
 }
 \]
 
@@ -390,4 +390,4 @@ The next phase is presentation, reviewer indexing, and external audit.
 
 ---
 
-*Prime Mesh Theory — RH Programme*
+*Prime Mesh Theory â€” RH Programme*

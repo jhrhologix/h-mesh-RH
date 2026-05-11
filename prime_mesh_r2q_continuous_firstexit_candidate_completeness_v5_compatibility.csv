@@ -1,0 +1,4 @@
+check,pass,value
+uses_full_grid_HExc_upgrade,True,False
+uses_failed_delta_route,True,False
+postp0_v5_compat_source_found,True,True

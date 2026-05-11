@@ -1,0 +1,5 @@
+gap_id,gap,status,detail,recommended_file
+G1,Global first-crossing localization theorem,open,Need proof that any RH-scale first crossing produces an admissible local R2Q row with Q_R2Q>0.75 and E_theta>=0/>0.,Prime_Mesh_R2Q_FirstCrossing_Localization_Theorem_Target_v1.md
+G2,v5 direct-sign compatibility,ok,Proof-evidence files do not use Q_R2Q>0.75 => Q_delta_D>0.75; final bridge should still state the direct threshold sign explicitly.,Prime_Mesh_R2Q_GlobalBridge_v5_Compatibility_Update_v1.md
+G3,Classical RH-scale conclusion,target_present_not_closed,"von Koch/psi/pi target is stated, but the local-stack implication is not finalized as a theorem.",Prime_Mesh_R2Q_vonKoch_RHScale_Bridge_Theorem_Target_v1.md
+G4,Finite certificate index,present_needs_final_reproducibility,"Finite zone has certificate support, but v5 says final index/reproducibility remains work.",Prime_Mesh_R2Q_FiniteCertificate_Index_v1.md

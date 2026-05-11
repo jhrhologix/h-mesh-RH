@@ -1,0 +1,1 @@
+x,p_star,y,h,side,source_coordinate,block_id,Q_theta,Q_R2Q,E_theta_local,theta_local_norm,covered_flag,finite_certificate_flag,tail_flag,B2_active_flag,negative_transfer_flag,positive_harmless_flag,Cplus_value,O2_B3_repaid_flag,scale_ratio_local_to_global,scale_ratio_global_to_local,sign_match,scale_compatibility_ok,localization_ok,crossing_status,post_P0,failure_reason

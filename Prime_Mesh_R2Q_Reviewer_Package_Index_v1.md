@@ -1,7 +1,7 @@
-# Prime Mesh R2Q — Reviewer Package Index v1
+﻿# Prime Mesh R2Q â€” Reviewer Package Index v1
 
 **Document:** `Prime_Mesh_R2Q_Reviewer_Package_Index_v1.md`  
-**Project:** Prime Mesh Theory — RH Programme  
+**Project:** Prime Mesh Theory â€” RH Programme  
 **Date:** 2026-05-11  
 **Status:** Reviewer package index  
 **Purpose:** Provide a clean reading order and artifact map for reviewing the certificate-level active theta-bridge closure.
@@ -42,7 +42,7 @@ The package should be reviewed as a certificate-backed, reproducible RH-scale br
 
 ## 2. Recommended Reading Order
 
-### Stage 1 — Start Here
+### Stage 1 â€” Start Here
 
 Read these first.
 
@@ -60,7 +60,7 @@ Purpose:
 
 ---
 
-### Stage 2 — Reproduction / Verification Layer
+### Stage 2 â€” Reproduction / Verification Layer
 
 Read these next.
 
@@ -81,7 +81,7 @@ Purpose:
 
 ---
 
-### Stage 3 — Main Paper Draft
+### Stage 3 â€” Main Paper Draft
 
 Read:
 
@@ -98,7 +98,7 @@ Purpose:
 
 ---
 
-### Stage 4 — Final Certificate Closure
+### Stage 4 â€” Final Certificate Closure
 
 Read:
 
@@ -116,7 +116,7 @@ Purpose:
 
 ---
 
-### Stage 5 — Gap-Margin Audit
+### Stage 5 â€” Gap-Margin Audit
 
 Read:
 
@@ -145,7 +145,7 @@ This is one of the most important review layers.
 
 ---
 
-### Stage 6 — Candidate Coverage and Selection
+### Stage 6 â€” Candidate Coverage and Selection
 
 Read:
 
@@ -166,7 +166,7 @@ Purpose:
 
 ---
 
-### Stage 7 — ThresholdRelevance
+### Stage 7 â€” ThresholdRelevance
 
 Read:
 
@@ -174,7 +174,7 @@ Read:
 Prime_Mesh_R2Q_FirstCrossing_ThresholdRelevance_Audit_v1.md
 Prime_Mesh_R2Q_FirstCrossing_ThresholdRelevance_Conditional_Closure_Update_v1.md
 prime_mesh_r2q_firstcrossing_thresholdrelevance_summary.csv
-prime_mesh_r2q_firstcrossing_thresholdrelevance_rows.csv
+prime_mesh_r2q_firstcrossing_threshold_relevance_rows.csv
 prime_mesh_r2q_firstcrossing_thresholdrelevance_failures.csv
 ```
 
@@ -188,7 +188,7 @@ Purpose:
 
 ---
 
-### Stage 8 — Endpoint Sign and Local Obstruction Closure
+### Stage 8 â€” Endpoint Sign and Local Obstruction Closure
 
 Read:
 
@@ -222,7 +222,7 @@ Purpose:
 
 ---
 
-### Stage 9 — H-Exc / Sampled-Grid Foundations
+### Stage 9 â€” H-Exc / Sampled-Grid Foundations
 
 Read:
 
@@ -244,7 +244,7 @@ Purpose:
 
 ---
 
-### Stage 10 — Proof Audit
+### Stage 10 â€” Proof Audit
 
 Read:
 
@@ -526,4 +526,4 @@ The next work is presentation and external verification, not more internal repai
 
 ---
 
-*Prime Mesh Theory — RH Programme*
+*Prime Mesh Theory â€” RH Programme*
