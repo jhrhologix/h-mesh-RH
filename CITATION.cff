@@ -16,7 +16,6 @@ authors:
   - family-names: Hegyesy
     given-names: Jonathan
     email: jhlogixim@gmail.com
-    orcid: ""
 keywords:
   - Riemann Hypothesis
   - prime numbers
@@ -27,6 +26,8 @@ keywords:
   - von Koch criterion
   - reproducible mathematics
 license: CC-BY-4.0
-version: "1.0.0"
+version: "1.0-review"
 date-released: "2026-05-11"
+doi: "10.5281/zenodo.20128313"
 repository-code: "https://github.com/jhrhologix/h-mesh-RH"
+url: "https://doi.org/10.5281/zenodo.20128313"

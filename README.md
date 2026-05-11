@@ -3,7 +3,8 @@
 **Author:** Jonathan Hegyesy  
 **Date:** 2026-05-11  
 **Status:** Certificate-level closure — pending independent review  
-**Tag:** v1.0-review
+**Tag:** v1.0-review  
+[![DOI](https://zenodo.org/badge/1226172726.svg)](https://doi.org/10.5281/zenodo.20128313)
 
 ---
 
@@ -76,10 +77,15 @@ See `Prime_Mesh_R2Q_HMesh_Definitions_v1.md` for definitions.
 
 ## Citation
 
-See `CITATION.cff` or cite as:
-
-> Jonathan Hegyesy. *Hegyesy Prime Mesh R2Q ThetaBridge Certificate v1*. 2026.  
-> https://github.com/jhrhologix/h-mesh-RH
+```bibtex
+@software{hegyesy2026hmesh,
+  author    = {Hegyesy, Jonathan},
+  title     = {Hegyesy Prime Mesh R2Q ThetaBridge Certificate v1},
+  year      = {2026},
+  doi       = {10.5281/zenodo.20128313},
+  url       = {https://doi.org/10.5281/zenodo.20128313}
+}
+```
 
 ---
 
