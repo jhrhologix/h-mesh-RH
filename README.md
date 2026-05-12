@@ -32,7 +32,7 @@ This constitutes a certificate-level route toward the Chebyshev/von Koch RH-scal
 
 ```bash
 pip install -r requirements.txt
-python run_all_final_audits.py
+python audit/run_all_final_audits.py
 ```
 
 Expected result:
@@ -60,10 +60,26 @@ Final certificate reproduction status: PASS
 
 ## Where to start reading
 
-1. `README_REPRODUCIBILITY.md` — full reproducibility guide
-2. `Prime_Mesh_R2Q_Reviewer_Package_Index_v1.md` — reading order for reviewers
-3. `Prime_Mesh_R2Q_Final_Certificate_RHScale_Paper_Draft_v1.md` — paper draft
-4. `Prime_Mesh_R2Q_Final_ProofAudit_Checklist_v1.md` — proof audit checklist
+1. `docs/reviewer/README_REPRODUCIBILITY.md` — full reproducibility guide
+2. `docs/reviewer/Prime_Mesh_R2Q_Reviewer_Package_Index_v1.md` — reading order for reviewers
+3. `paper/Prime_Mesh_R2Q_Final_Certificate_RHScale_Paper_Draft_v1.md` — paper draft
+4. `docs/proof_checks/Prime_Mesh_R2Q_Final_ProofAudit_Checklist_v1.md` — proof audit checklist
+
+---
+
+## Repository layout
+
+- `README.md` — public overview and cautious claim framing.
+- `Prime_Mesh_R2Q_ThetaBridge_Certificate_Manuscript_v1.pdf` — manuscript PDF.
+- `PLAIN_ENGLISH_GUIDE.md` — section-by-section plain-language guide.
+- `audit/` — one-command reproduction runner, audit scripts, CSV certificates, hashes, and logs.
+- `docs/reviewer/` — reviewer guide, package index, definitions, authorship/naming.
+- `docs/conceptual/` — H-Mesh, Prime Mesh, R2Q mechanism, discovery-path, and future side-paper material.
+- `docs/proof_checks/` — red-team, proof-audit, reproduction reports, and runbooks.
+- `docs/audits/` — detailed audit notes.
+- `docs/closure_updates/` — closure and package repair notes.
+- `docs/legacy/` — older drafts and superseded working notes.
+- `paper/` — paper sources and arXiv bundle artifacts.
 
 ---
 
@@ -71,7 +87,7 @@ Final certificate reproduction status: PASS
 
 This work is part of the **Hegyesy Mesh (H-Mesh)** programme — a local prime-error geometry framework that decomposes the global theta-bridge control problem into window-level first-exit certificates.
 
-See `Prime_Mesh_R2Q_HMesh_Definitions_v1.md` for definitions.
+See `docs/reviewer/Prime_Mesh_R2Q_HMesh_Definitions_v1.md` for definitions.
 
 ---
 

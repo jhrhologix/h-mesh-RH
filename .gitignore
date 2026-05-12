@@ -17,3 +17,7 @@ Thumbs.db
 
 # Freeze logs (generated on reviewer machines)
 environment_freeze.txt
+
+# Generated audit Markdown is written by audit scripts during reproduction.
+# Canonical reviewer copies live under docs/audits/.
+audit/Prime_Mesh_R2Q_*_Audit_v1.md
