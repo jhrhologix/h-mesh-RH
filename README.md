@@ -108,4 +108,4 @@ See `docs/reviewer/Prime_Mesh_R2Q_HMesh_Definitions_v1.md` for definitions.
 ## License
 
 CC BY 4.0 — see `LICENSE`.  
-AI tools assisted with code and drafting. See `AUTHORSHIP_AND_NAMING.md`.
+AI tools assisted with code and drafting. See `docs/reviewer/AUTHORSHIP_AND_NAMING.md`.
